@@ -1,1 +1,1 @@
-# s7e
+# s7e (Streamline) Data Modelling
